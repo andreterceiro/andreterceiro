@@ -1,3 +1,3 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=andreterceiro1&theme=white)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreterceiro)
 
 My personal website: [http://www.terceiro.com.br](http://www.terceiro.com.br).
