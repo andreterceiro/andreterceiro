@@ -1,6 +1,6 @@
 ![GitHub stats](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=andreterceiro&theme=%7B%22backgroundColor%22%3A%22%23ffffff%22%2C%22textColor%22%3A%22%231a5fb4%22%2C%22accentColor%22%3A%22%2322c55e%22%2C%22borderColor%22%3A%22%23166534%22%2C%22waterColor%22%3A%22%2322c55e%22%2C%22streakColor%22%3A%22%2315803d%22%7D&v=1769356901412)
 
-Contribuições recentes no Github:
+Recent contributions on GitHub:
 ![André de Paula Terceiro's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreterceiro&theme=github-compact&title_color=51DD5DFF&hide_border=true)
 
 **OBS:** My main areas of knowledge are:
