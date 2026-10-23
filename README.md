@@ -1,7 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andreterceiro)](https://git.io/streak-stats)
 
-Recent contributions on GitHub:
-
 **OBS:** My main areas of knowledge are:
 
 - Web technologies (HTML, CSS, JavaScript)
